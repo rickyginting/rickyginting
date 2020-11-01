@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello friends, these are just some of my work that might help you 👋
+😄 Nice to meet you.
+Don't forget to follow me on (Facebook)[https://fb.com/icky.12] and (Instagram)[https://instagram.com/rickyginting_] too
 <!--
 **rickyginting/rickyginting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
